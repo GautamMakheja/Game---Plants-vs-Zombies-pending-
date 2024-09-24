@@ -30,6 +30,6 @@ To get started with the game, follow these steps:
   ```bash
   ./PlantsVsZombies.c
 ```
-#Contributing
+Contributing
 
 If you would like to contribute to the development of this game, please fork the repository and submit a pull request with your changes.
