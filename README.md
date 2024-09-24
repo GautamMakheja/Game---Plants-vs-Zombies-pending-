@@ -19,8 +19,9 @@ As players progress through the game, they will encounter increasing levels of d
 To get started with the game, follow these steps:
 
 1. **Clone the Repository**: Clone the game repository to your local machine.
-   ```bash
+```bash
    git clone <repository-url>
+```
 2. Compile the Game: Use a C compiler to compile the game source code.
   ```bash
     gcc -o plants_vs_zombies main.c
