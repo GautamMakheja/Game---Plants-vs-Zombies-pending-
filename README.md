@@ -22,12 +22,12 @@ To get started with the game, follow these steps:
    ```bash
    git clone <repository-url>
 2. Compile the Game: Use a C compiler to compile the game source code.
-
+  ```bash
     gcc -o plants_vs_zombies main.c
 
 3. Run the Game: Execute the compiled game binary.
-
-./PlantsVsZombies.c
+  ```bash
+  ./PlantsVsZombies.c
 
 Contributing
 
